@@ -8,7 +8,7 @@ export default class home extends Component {
       { id: 1013, name: 'Manoj', password: 'manoj@123' }
     ],
     isLoggedIn: false,
-    Value: [10, 20, 30, 40]
+    Value: [10, 20, 30, 40,90]
   };
 
 //   printArrayValue = value => {
